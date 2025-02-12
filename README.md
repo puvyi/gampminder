@@ -1,2 +1,2 @@
-# gampminder
-Gampminder project
+# gamminder
+Gapminder project
